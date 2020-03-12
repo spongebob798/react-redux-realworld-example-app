@@ -1,6 +1,7 @@
 # ![React + Redux Example App](project-logo.png)
 
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fspongebob798%2Freact-redux-realworld-example-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fspongebob798%2Freact-redux-realworld-example-app?ref=badge_shield)
 
 > ### React + Redux codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
@@ -72,3 +73,7 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 <br />
 
 [![Brought to you by Thinkster](https://raw.githubusercontent.com/gothinkster/realworld/master/media/end.png)](https://thinkster.io)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fspongebob798%2Freact-redux-realworld-example-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fspongebob798%2Freact-redux-realworld-example-app?ref=badge_large)
